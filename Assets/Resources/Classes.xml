@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<Root>
+  <Units>
+    <Unit Name ="Groepen">
+      <Unit Name ="Groep A">
+        <Unit Name ="Mylo Hogervorst">
+          <Unit Name ="Vakinhoudelijke kennis">
+            <Unit Name ="kennis anatomie/fysiologie"/>
+            <Unit Name ="kennis protocollen en richtlinen"/>
+            <Unit Name ="kennis ziekte- processen"/>
+            <Unit Name ="Klinisch redeneren"/>
+            <Unit Name ="specialistische kennis UMC"/>
+          </Unit>
+          <Unit Name ="Communicator">
+            <Unit Name ="Sociaal vaardig"/>
+            <Unit Name ="switchen tussen ouders en kind"/>
+            <Unit Name ="open"/>
+            <Unit Name ="eerlijk"/>
+            <Unit Name ="sensitief"/>
+          </Unit>
+          <Unit Name ="Samenwerker">
+            <Unit Name ="zorg kunnen overdragen"/>
+            <Unit Name ="samenwerken met andere disciplines"/>
+            <Unit Name ="eigen grenzen kunnen bewaken"/>
+            <Unit Name ="flexibiliteit"/>
+          </Unit>
+          <Unit Name ="Reflectieve professional">
+            <Unit Name ="lerende houding"/>
+            <Unit Name ="zelfsturend"/>
+            <Unit Name ="transparant"/>
+            <Unit Name ="actief"/>
+            <Unit Name ="met kennis handelen"/>
+          </Unit>
+          <Unit Name ="Gezondheidsbevorderaar">
+            <Unit Name ="voorlichting geven"/>
+            <Unit Name ="kind en veiligheid"/>
+            <Unit Name ="adviseren over vervolg zorg in thuissituatie"/>
+          </Unit>
+          <Unit Name ="Professional en kwaliteitsbevorderaar">
+            <Unit Name ="evidence based practice"/>
+            <Unit Name ="kennis op peil houden dmv vaktijdschriften"/>
+          </Unit>
+        </Unit>
+        <Unit Name ="Jaap Bel">
+          <Unit Name ="Vakinhoudelijke kennis">
+            <Unit Name ="kennis anatomie/fysiologie"/>
+            <Unit Name ="kennis protocollen en richtlinen"/>
+            <Unit Name ="kennis ziekte- processen"/>
+            <Unit Name ="Klinisch redeneren"/>
+            <Unit Name ="specialistische kennis UMC"/>
+          </Unit>
+          <Unit Name ="Communicator">
+            <Unit Name ="Sociaal vaardig"/>
+            <Unit Name ="switchen tussen ouders en kind"/>
+            <Unit Name ="open"/>
+            <Unit Name ="eerlijk"/>
+            <Unit Name ="sensitief"/>
+          </Unit>
+          <Unit Name ="Samenwerker">
+            <Unit Name ="zorg kunnen overdragen"/>
+            <Unit Name ="samenwerken met andere disciplines"/>
+            <Unit Name ="eigen grenzen kunnen bewaken"/>
+            <Unit Name ="flexibiliteit"/>
+          </Unit>
+          <Unit Name ="Reflectieve professional">
+            <Unit Name ="lerende houding"/>
+            <Unit Name ="zelfsturend"/>
+            <Unit Name ="transparant"/>
+            <Unit Name ="actief"/>
+            <Unit Name ="met kennis handelen"/>
+          </Unit>
+          <Unit Name ="Gezondheidsbevorderaar">
+            <Unit Name ="voorlichting geven"/>
+            <Unit Name ="kind en veiligheid"/>
+            <Unit Name ="adviseren over vervolg zorg in thuissituatie"/>
+          </Unit>
+          <Unit Name ="Professional en kwaliteitsbevorderaar">
+            <Unit Name ="evidence based practice"/>
+            <Unit Name ="kennis op peil houden dmv vaktijdschriften"/>
+          </Unit>
+        </Unit>
+        <Unit Name ="Yorian van Hierden">
+          <Unit Name ="Vakinhoudelijke kennis">
+            <Unit Name ="kennis anatomie/fysiologie"/>
+            <Unit Name ="kennis protocollen en richtlinen"/>
+            <Unit Name ="kennis ziekte- processen"/>
+            <Unit Name ="Klinisch redeneren"/>
+            <Unit Name ="specialistische kennis UMC"/>
+          </Unit>
+          <Unit Name ="Communicator">
+            <Unit Name ="Sociaal vaardig"/>
+            <Unit Name ="switchen tussen ouders en kind"/>
+            <Unit Name ="open"/>
+            <Unit Name ="eerlijk"/>
+            <Unit Name ="sensitief"/>
+          </Unit>
+          <Unit Name ="Samenwerker">
+            <Unit Name ="zorg kunnen overdragen"/>
+            <Unit Name ="samenwerken met andere disciplines"/>
+            <Unit Name ="eigen grenzen kunnen bewaken"/>
+            <Unit Name ="flexibiliteit"/>
+          </Unit>
+          <Unit Name ="Reflectieve professional">
+            <Unit Name ="lerende houding"/>
+            <Unit Name ="zelfsturend"/>
+            <Unit Name ="transparant"/>
+            <Unit Name ="actief"/>
+            <Unit Name ="met kennis handelen"/>
+          </Unit>
+          <Unit Name ="Gezondheidsbevorderaar">
+            <Unit Name ="voorlichting geven"/>
+            <Unit Name ="kind en veiligheid"/>
+            <Unit Name ="adviseren over vervolg zorg in thuissituatie"/>
+          </Unit>
+          <Unit Name ="Professional en kwaliteitsbevorderaar">
+            <Unit Name ="evidence based practice"/>
+            <Unit Name ="kennis op peil houden dmv vaktijdschriften"/>
+          </Unit>
+        </Unit>
+      </Unit>
+      <Unit Name ="Groep B">
+        <Unit Name ="Katarina Timmerman">
+                 <Unit Name ="Vakinhoudelijke kennis">
+            <Unit Name ="kennis anatomie/fysiologie"/>
+            <Unit Name ="kennis protocollen en richtlinen"/>
+            <Unit Name ="kennis ziekte- processen"/>
+            <Unit Name ="Klinisch redeneren"/>
+            <Unit Name ="specialistische kennis UMC"/>
+          </Unit>
+          <Unit Name ="Communicator">
+            <Unit Name ="Sociaal vaardig"/>
+            <Unit Name ="switchen tussen ouders en kind"/>
+            <Unit Name ="open"/>
+            <Unit Name ="eerlijk"/>
+            <Unit Name ="sensitief"/>
+          </Unit>
+          <Unit Name ="Samenwerker">
+            <Unit Name ="zorg kunnen overdragen"/>
+            <Unit Name ="samenwerken met andere disciplines"/>
+            <Unit Name ="eigen grenzen kunnen bewaken"/>
+            <Unit Name ="flexibiliteit"/>
+          </Unit>
+          <Unit Name ="Reflectieve professional">
+            <Unit Name ="lerende houding"/>
+            <Unit Name ="zelfsturend"/>
+            <Unit Name ="transparant"/>
+            <Unit Name ="actief"/>
+            <Unit Name ="met kennis handelen"/>
+          </Unit>
+          <Unit Name ="Gezondheidsbevorderaar">
+            <Unit Name ="voorlichting geven"/>
+            <Unit Name ="kind en veiligheid"/>
+            <Unit Name ="adviseren over vervolg zorg in thuissituatie"/>
+          </Unit>
+          <Unit Name ="Professional en kwaliteitsbevorderaar">
+            <Unit Name ="evidence based practice"/>
+            <Unit Name ="kennis op peil houden dmv vaktijdschriften"/>
+          </Unit>
+        </Unit>
+        <Unit Name ="Harry van de Wiel">
+          <Unit Name ="Vakinhoudelijke kennis">
+            <Unit Name ="kennis anatomie/fysiologie"/>
+            <Unit Name ="kennis protocollen en richtlinen"/>
+            <Unit Name ="kennis ziekte- processen"/>
+            <Unit Name ="Klinisch redeneren"/>
+            <Unit Name ="specialistische kennis UMC"/>
+          </Unit>
+          <Unit Name ="Communicator">
+            <Unit Name ="Sociaal vaardig"/>
+            <Unit Name ="switchen tussen ouders en kind"/>
+            <Unit Name ="open"/>
+            <Unit Name ="eerlijk"/>
+            <Unit Name ="sensitief"/>
+          </Unit>
+          <Unit Name ="Samenwerker">
+            <Unit Name ="zorg kunnen overdragen"/>
+            <Unit Name ="samenwerken met andere disciplines"/>
+            <Unit Name ="eigen grenzen kunnen bewaken"/>
+            <Unit Name ="flexibiliteit"/>
+          </Unit>
+          <Unit Name ="Reflectieve professional">
+            <Unit Name ="lerende houding"/>
+            <Unit Name ="zelfsturend"/>
+            <Unit Name ="transparant"/>
+            <Unit Name ="actief"/>
+            <Unit Name ="met kennis handelen"/>
+          </Unit>
+          <Unit Name ="Gezondheidsbevorderaar">
+            <Unit Name ="voorlichting geven"/>
+            <Unit Name ="kind en veiligheid"/>
+            <Unit Name ="adviseren over vervolg zorg in thuissituatie"/>
+          </Unit>
+          <Unit Name ="Professional en kwaliteitsbevorderaar">
+            <Unit Name ="evidence based practice"/>
+            <Unit Name ="kennis op peil houden dmv vaktijdschriften"/>
+          </Unit>
+        </Unit>
+        <Unit Name ="Yanniek Zuur">
+          <Unit Name ="Vakinhoudelijke kennis">
+            <Unit Name ="kennis anatomie/fysiologie"/>
+            <Unit Name ="kennis protocollen en richtlinen"/>
+            <Unit Name ="kennis ziekte- processen"/>
+            <Unit Name ="Klinisch redeneren"/>
+            <Unit Name ="specialistische kennis UMC"/>
+          </Unit>
+          <Unit Name ="Communicator">
+            <Unit Name ="Sociaal vaardig"/>
+            <Unit Name ="switchen tussen ouders en kind"/>
+            <Unit Name ="open"/>
+            <Unit Name ="eerlijk"/>
+            <Unit Name ="sensitief"/>
+          </Unit>
+          <Unit Name ="Samenwerker">
+            <Unit Name ="zorg kunnen overdragen"/>
+            <Unit Name ="samenwerken met andere disciplines"/>
+            <Unit Name ="eigen grenzen kunnen bewaken"/>
+            <Unit Name ="flexibiliteit"/>
+          </Unit>
+          <Unit Name ="Reflectieve professional">
+            <Unit Name ="lerende houding"/>
+            <Unit Name ="zelfsturend"/>
+            <Unit Name ="transparant"/>
+            <Unit Name ="actief"/>
+            <Unit Name ="met kennis handelen"/>
+          </Unit>
+          <Unit Name ="Gezondheidsbevorderaar">
+            <Unit Name ="voorlichting geven"/>
+            <Unit Name ="kind en veiligheid"/>
+            <Unit Name ="adviseren over vervolg zorg in thuissituatie"/>
+          </Unit>
+          <Unit Name ="Professional en kwaliteitsbevorderaar">
+            <Unit Name ="evidence based practice"/>
+            <Unit Name ="kennis op peil houden dmv vaktijdschriften"/>
+          </Unit>
+        </Unit>
+      </Unit>
+      <Unit Name ="Groep C">
+        <Unit Name ="Samiha Duis">
+                 <Unit Name ="Vakinhoudelijke kennis">
+            <Unit Name ="kennis anatomie/fysiologie"/>
+            <Unit Name ="kennis protocollen en richtlinen"/>
+            <Unit Name ="kennis ziekte- processen"/>
+            <Unit Name ="Klinisch redeneren"/>
+            <Unit Name ="specialistische kennis UMC"/>
+          </Unit>
+          <Unit Name ="Communicator">
+            <Unit Name ="Sociaal vaardig"/>
+            <Unit Name ="switchen tussen ouders en kind"/>
+            <Unit Name ="open"/>
+            <Unit Name ="eerlijk"/>
+            <Unit Name ="sensitief"/>
+          </Unit>
+          <Unit Name ="Samenwerker">
+            <Unit Name ="zorg kunnen overdragen"/>
+            <Unit Name ="samenwerken met andere disciplines"/>
+            <Unit Name ="eigen grenzen kunnen bewaken"/>
+            <Unit Name ="flexibiliteit"/>
+          </Unit>
+          <Unit Name ="Reflectieve professional">
+            <Unit Name ="lerende houding"/>
+            <Unit Name ="zelfsturend"/>
+            <Unit Name ="transparant"/>
+            <Unit Name ="actief"/>
+            <Unit Name ="met kennis handelen"/>
+          </Unit>
+          <Unit Name ="Gezondheidsbevorderaar">
+            <Unit Name ="voorlichting geven"/>
+            <Unit Name ="kind en veiligheid"/>
+            <Unit Name ="adviseren over vervolg zorg in thuissituatie"/>
+          </Unit>
+          <Unit Name ="Professional en kwaliteitsbevorderaar">
+            <Unit Name ="evidence based practice"/>
+            <Unit Name ="kennis op peil houden dmv vaktijdschriften"/>
+          </Unit>
+        </Unit>
+        <Unit Name ="Babet Bartholomeus">
+          <Unit Name ="Vakinhoudelijke kennis">
+            <Unit Name ="kennis anatomie/fysiologie"/>
+            <Unit Name ="kennis protocollen en richtlinen"/>
+            <Unit Name ="kennis ziekte- processen"/>
+            <Unit Name ="Klinisch redeneren"/>
+            <Unit Name ="specialistische kennis UMC"/>
+          </Unit>
+          <Unit Name ="Communicator">
+            <Unit Name ="Sociaal vaardig"/>
+            <Unit Name ="switchen tussen ouders en kind"/>
+            <Unit Name ="open"/>
+            <Unit Name ="eerlijk"/>
+            <Unit Name ="sensitief"/>
+          </Unit>
+          <Unit Name ="Samenwerker">
+            <Unit Name ="zorg kunnen overdragen"/>
+            <Unit Name ="samenwerken met andere disciplines"/>
+            <Unit Name ="eigen grenzen kunnen bewaken"/>
+            <Unit Name ="flexibiliteit"/>
+          </Unit>
+          <Unit Name ="Reflectieve professional">
+            <Unit Name ="lerende houding"/>
+            <Unit Name ="zelfsturend"/>
+            <Unit Name ="transparant"/>
+            <Unit Name ="actief"/>
+            <Unit Name ="met kennis handelen"/>
+          </Unit>
+          <Unit Name ="Gezondheidsbevorderaar">
+            <Unit Name ="voorlichting geven"/>
+            <Unit Name ="kind en veiligheid"/>
+            <Unit Name ="adviseren over vervolg zorg in thuissituatie"/>
+          </Unit>
+          <Unit Name ="Professional en kwaliteitsbevorderaar">
+            <Unit Name ="evidence based practice"/>
+            <Unit Name ="kennis op peil houden dmv vaktijdschriften"/>
+          </Unit>
+        </Unit>
+        <Unit Name ="Giny Muurling">
+          <Unit Name ="Vakinhoudelijke kennis">
+            <Unit Name ="kennis anatomie/fysiologie"/>
+            <Unit Name ="kennis protocollen en richtlinen"/>
+            <Unit Name ="kennis ziekte- processen"/>
+            <Unit Name ="Klinisch redeneren"/>
+            <Unit Name ="specialistische kennis UMC"/>
+          </Unit>
+          <Unit Name ="Communicator">
+            <Unit Name ="Sociaal vaardig"/>
+            <Unit Name ="switchen tussen ouders en kind"/>
+            <Unit Name ="open"/>
+            <Unit Name ="eerlijk"/>
+            <Unit Name ="sensitief"/>
+          </Unit>
+          <Unit Name ="Samenwerker">
+            <Unit Name ="zorg kunnen overdragen"/>
+            <Unit Name ="samenwerken met andere disciplines"/>
+            <Unit Name ="eigen grenzen kunnen bewaken"/>
+            <Unit Name ="flexibiliteit"/>
+          </Unit>
+          <Unit Name ="Reflectieve professional">
+            <Unit Name ="lerende houding"/>
+            <Unit Name ="zelfsturend"/>
+            <Unit Name ="transparant"/>
+            <Unit Name ="actief"/>
+            <Unit Name ="met kennis handelen"/>
+          </Unit>
+          <Unit Name ="Gezondheidsbevorderaar">
+            <Unit Name ="voorlichting geven"/>
+            <Unit Name ="kind en veiligheid"/>
+            <Unit Name ="adviseren over vervolg zorg in thuissituatie"/>
+          </Unit>
+          <Unit Name ="Professional en kwaliteitsbevorderaar">
+            <Unit Name ="evidence based practice"/>
+            <Unit Name ="kennis op peil houden dmv vaktijdschriften"/>
+          </Unit>
+        </Unit>
+      </Unit>
+    </Unit>
+  </Units>
+</Root>
+
